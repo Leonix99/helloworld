@@ -1,2 +1,2 @@
 # helloworld
-The classy classics.
+The classy classics. Uses Java.
